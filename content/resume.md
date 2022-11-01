@@ -10,35 +10,21 @@ menu:
 
 {{< container >}}
     {{% resume-section title="About Me" %}}
-I am a cryptocurrency and blockchain professional with experience from [decentralized autonomous organizations](https://ethereum.org/en/dao/), startups, and corporations alike. My primary domains of expertise are governance systems, decentralized (and traditional) finance, operations and logistics, documentation, and software/web development.
+I am a cryptocurrency and blockchain specialist with experience from [decentralized autonomous organizations](https://ethereum.org/en/dao/), startups, and corporations alike. My primary domains of expertise are governance systems, decentralized (and traditional) finance, operations and logistics, documentation, and programming.
     {{% /resume-section %}}
     {{< resume-section title="Experience" >}}
-        {{% resume-entry what="Performing Musician"
-                        where="New York"
-                        when="2019-2020" %}}
-- Trumpet player, composer, educator, and organizer.
-- Played jazz and classical music throughout the New York metropolitan area.
-- Formally trained at the Manhattan School of Music.
-        {{% /resume-entry %}}
-        {{% resume-entry what="Freelance Audio Professional"
-                         when="2020-2021"
-                         where="Los Angeles" %}}
-- Audio engineering, producing, mixing, and mastering.
-- Expertise with [Reaper](http://reaper.fm/) and [iZotope RX](https://www.izotope.com/en/products/rx.html).
-- Passion for audio restoration.
-        {{% /resume-entry %}}
         {{% resume-entry what="JuiceboxDAO Contributor"
                          where=""
                          when="2021-2022" %}}
 - Stewarded the [Docs](https://info.juicebox.money/), the [Governance Process](https://info.juicebox.money/dao/process), and the [Discord server](https://discord.gg/juicebox).
 - Created software to streamline bookkeeping, accounting, and legal entity filings.
+- Creation and management of decentralized governance processes.
 - Operations and logistics: day-to-day as well as hackathons and events.
 - Multisignature wallet custody and management.
 - Contributions to the [Juicebox Subgraph implementation](https://github.com/jbx-protocol/juice-subgraph).
-- Creation and management of decentralized governance process and operations.
 - Stewarded several partnerships and collaborations.
 - Educational content, documentation, and resources.
-- Contributions to [SharkDAO](https://juicebox.money/p/sharkdao), [Sätra Brunn DAO](https://www.satrabrunn.xyz/), [MoonDAO](https://juicebox.money/p/moondao), [AssangeDAO](https://juicebox.money/p/assangedao), and many other projects.
+- Contributions to [SharkDAO](https://juicebox.money/p/sharkdao), [Sätra Brunn DAO](https://www.satrabrunn.xyz/), [MoonDAO](https://juicebox.money/p/moondao), [AssangeDAO](https://juicebox.money/p/assangedao), and many more.
         {{% /resume-entry %}}
         {{% resume-entry what="Cryptocurrency Professional"
                          where=""
@@ -47,25 +33,33 @@ I am a cryptocurrency and blockchain professional with experience from [decentra
 - Governance, community, marketing, tooling, and NFT strategy consulting.
 - Software and web development.
         {{% /resume-entry %}}
+        {{% resume-entry what="Freelance Audio Professional"
+                         when="2020-2021"
+                         where="Los Angeles" %}}
+- Audio engineering, producing, mixing, and mastering.
+- Expertise with [Reaper](http://reaper.fm/) and [iZotope RX](https://www.izotope.com/en/products/rx.html).
+- Passion for audio restoration.
+        {{% /resume-entry %}}
+        {{% resume-entry what="Performing Musician"
+                        where="New York"
+                        when="2019-2020" %}}
+- Trumpet player, composer, educator, and organizer.
+- Played jazz and classical music throughout the New York metropolitan area.
+- Formally trained at the Manhattan School of Music.
+        {{% /resume-entry %}}
     {{< /resume-section >}}
     {{% resume-section title="Interests" %}}
 Cryptocurrency compliance
 
 Free and open-source software
 
-Linux, OpenBSD, POSIX utilities, LaTeX, Nodejs, Deno, Hugo, and Docusaurus
+Linux, LaTeX, Node, and Hugo
 
 Ethereum, Monero, and Bitcoin
-
-Automation
-
-Heraclitus, Nietzsche, and Schopenhauer
 
 Historical anthropology
 
 Decentralized, federated, and peer-to-peer software
-
-Classical art
 
     {{% /resume-section %}}
 
@@ -74,7 +68,7 @@ Classical art
         {{% resume-entry what="Native Language" %}}
         {{% /resume-entry %}}
         {{< resume-category title="Spanish" >}}
-        {{% resume-entry what="Spanish Classes" %}}
+        {{% resume-entry what="Proficient" %}}
         {{% /resume-entry %}}
     {{< /resume-section >}}
 {{< /container >}}

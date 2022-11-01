@@ -6,4 +6,4 @@ tags: [miscellaneous]
 categories: [miscellaneous]
 ---
 
-Check for more posts later! For updates, subscribe to the [RSS Feed](/index.xml).
+Check for more posts later. For updates, subscribe to the [RSS Feed](/index.xml).

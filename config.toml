@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "filip.world"
 theme = "notrack"
 newContentEditor = "vim"
-mainSections = ["blog"]
+# mainSections = ["blog"]
 # disqusShortname = "example"
 paginate = 4
 
@@ -11,7 +11,7 @@ paginate = 4
   author = "Filip"
   siteHeading = "filip.world" # defaults to author
   favicon = "" # Adds a small icon next to the page title in a tab
-  showBlogLatest = true
+  showBlogLatest = false
   mainSections = ["blog"]
   showTaxonomyLinks = false
   nBlogLatest = 4 # number of blog post om the home page
@@ -20,7 +20,7 @@ paginate = 4
   [params.social]
     email = "f@filip.world"
     telegram = "filipvv"
-    github = "filipv-eth"
+    github = "filipvvv"
     rss = ""
 
 [taxonomies]
