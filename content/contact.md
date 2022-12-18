@@ -7,6 +7,6 @@ menu:
     weight: 255
 ---
 
-The links below will direct you to my GitHub, Telegram, and Email. You can also find me in the [Juicebox Discord server](https://discord.gg/juicebox); my handle is `filipv#0001`.
+The links below will direct you to my GitHub, Telegram, and Email. You can also find me on [Discord](https://discord.gg/juicebox); my handle is `filipv#0001`.
 
 {{< social >}}
